@@ -100,7 +100,7 @@ Completed 150 hours out of 197 hours (3years) towards a Bachelor’s Degree in I
 (CI Level 3 - Mary Ward Centre for Adult Education. London, UK). -->
 
 ## <a name="experience">Experience:</a>
-**[Capgemini UK](http://www.capgemini.com). London** (March to July 2017)
+#### **[Capgemini UK](http://www.capgemini.com). London** (March to July 2017)
 ###### *Paid Internship*
 * Implemented facial recognition check-in application used across Capgemini’s innovations
 labs around the globe and showcased to clients daily.
@@ -112,26 +112,26 @@ discussions and responsible for front end UX design
 guide them to produce innovative solutions and prototypes using Agile methodology
 * Other projects include assisting with planning and coordinating of Accelerated Solution Environment events, collaborating with team members to deliver various solutions programmed mainly in JavaScript, TypeScript (Angular), ES6/JSX (React), designed and analysed design sprints and prototyping.
 
-**[Condé Nast Johansens](http://www.johansens.com). London** (Nov 2015)
+#### **[Condé Nast Johansens](http://www.johansens.com). London** (Nov 2015)
 ###### *Software Developer*
   Placement responsibilities included editing the newsletter (reaching over 500K subscribers) for member hotels, writing website content (for over 100K visitors per month), designing contests for social platforms using Shortstack and generally assisting with social media campaigns (Facebook/Twitter).
 
 
-**Wise Age Ltd. London** (2014 – 2016)
+#### **Wise Age Ltd. London** (2014 – 2016)
 ###### *Web Designer*
 - Designed a new corporate identity (A new Logo, leaflets, letterheads, social pages’
 cover/profile photos…etc.)
 - Designed and hosted the [new website](http://www.wiseage.org.uk)
 - Managed Wise Age’s social profiles.
 
-**Dar Sama for Publishing. Kuwait** (2013 – 2014)
+#### **Dar Sama for Publishing. Kuwait** (2013 – 2014)
 ###### *Graphic designer*
 - Supervised creative direction of numerous projects.
 - Established new set of corporate identity guideline services including a complete
 overhaul.
 
 
-**Egyptronix Inc. Cairo, Egypt** (2009 – 2013)
+#### **Egyptronix Inc. Cairo, Egypt** (2009 – 2013)
 ###### *Co-founder/Lead Graphic Designer*
 - Co-founded Egyptronix Inc. (Now renamed and re-launched in 2012 as Mediatronix Inc.
 and Egyptronix.com, under new management).
