@@ -69,6 +69,7 @@ researcher on projects.: -->
   - Pencil
 
 #### Other Skills/Characteristics:
+
  - Avid learner:<br>I'm able to grasp new concepts and technologies and work with them without sacrificing good practices. Always up for diving head first and learning through practising, making and building.
 
 - I strive to keep a high personal standard in every project I deleiver while remaining ahead of deadlines.
@@ -159,4 +160,4 @@ very short period of time.
 I enjoy maintaining a healthy lifestyle, particularly through cycling. I also dedicate my time to learning about new software/programming languages and how I can use them to develop my initiatives, and use my interest in all forms of art and design to creatively stimulate myself; specifically through film, television, and digital artwork.
 
 
-#### *References available upon request*
+### *References available upon request*
