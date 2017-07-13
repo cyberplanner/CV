@@ -11,7 +11,7 @@
 
 A skilled Software Developer with formidable experience in graphic design and motion graphics. I'm passionate about coding, language agnostic and advocate for lifelong learning and exploring new technologies. Beside self-learning I have done a few bootcamps/courses, like: [Makers Academy](https://github.com/makersacademy)- a bootcamp specifically focused on the Agile Methodology and Extreme Programming values such as pair-programming and TDD with Ruby and Rails, Javascript and express among other technologies. I've also trained on the [Free Boot Camp](http://www.freecodecamp.com) in parallel which was more focused on front-end design, JavaScript and jQuery.<br>
 
-I'm currently looking for job, preferebly in London (but I'm open to relocating based on offers) where I'll get the opportunity to develop and add to my skill set.
+I'm currently looking for a job, preferebly in London- but I'm open to relocating based on offers- where I'll get the opportunity to develop and add to my skill set.
 <!-- I have worked for the past 4 month at Capgemini's Applied Innovation Exchange where I worked on a varaierty of devise projects built with different technologies and helped run Design Sprints on-site for high profile clients such as Nationwide Group. -->
 
 ----
